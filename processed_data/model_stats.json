@@ -1,0 +1,50 @@
+{
+    "player_points_per_game": {
+        "rmse": 0.7669710686536543,
+        "mae": 0.5782240462606956,
+        "importances": {
+            "player_assists_per_game": 0.00015240234849769215,
+            "player_rebounds_per_game": 0.0036757846689008267,
+            "player_minutes_per_game": 0.0107537152450575,
+            "player_steals_per_game": 0.0004873146926514437,
+            "player_blocks_per_game": 0.0003780914646085815,
+            "player_turnovers_per_game": 0.0003780453706068949,
+            "overall_impact": 6.421595188881907e-06,
+            "pts_per_36": 0.0503851548499916,
+            "ast_per_36": 0.00036728421062809103,
+            "efficiency_metric": 0.9334157855538685
+        }
+    },
+    "player_assists_per_game": {
+        "rmse": 0.29331801575844507,
+        "mae": 0.21007032169244474,
+        "importances": {
+            "player_points_per_game": 1.4488863716607925e-19,
+            "player_rebounds_per_game": 0.0,
+            "player_minutes_per_game": 0.2449120042866024,
+            "player_steals_per_game": -6.175580687255259e-20,
+            "player_blocks_per_game": -3.3917591304318927e-19,
+            "player_turnovers_per_game": -1.8392423037350578e-19,
+            "overall_impact": 0.0007650180208529721,
+            "pts_per_36": -1.020697695056461e-19,
+            "ast_per_36": 0.7543229776925446,
+            "efficiency_metric": 9.666840035188158e-20
+        }
+    },
+    "player_rebounds_per_game": {
+        "rmse": 0.8661644960393134,
+        "mae": 0.6342438941350443,
+        "importances": {
+            "player_points_per_game": 0.006461060409193508,
+            "player_assists_per_game": 0.002671719751328933,
+            "player_minutes_per_game": 0.0053716018270540955,
+            "player_steals_per_game": 0.059551909063509385,
+            "player_blocks_per_game": 0.2806531546508834,
+            "player_turnovers_per_game": 0.000786659261774001,
+            "overall_impact": 0.005505111376777434,
+            "pts_per_36": 0.0007701396157332562,
+            "ast_per_36": 0.03787051817222097,
+            "efficiency_metric": 0.600358125871525
+        }
+    }
+}
